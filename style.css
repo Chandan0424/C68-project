@@ -1,0 +1,15 @@
+#marqueeStyle{
+    background-color: blue;
+    color: white;
+}
+body{
+    text-align: center;
+}
+#firstImg{
+    width:100%;
+    height:100%;
+}
+#Contact{
+    scroll-behavior:smooth;
+    text-align: left;
+}
